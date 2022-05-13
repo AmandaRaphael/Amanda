@@ -3,7 +3,7 @@ import React from 'react'
 const H1 = () => {
     return (
       <h1>
-        <a href="javascript:void(0)">
+       
           <span>A</span>
           <span>M</span>
           <span>A</span>
@@ -26,7 +26,7 @@ const H1 = () => {
           <span>A</span>
           <span>E</span>
           <span>L</span>
-        </a>
+     
       </h1>
     );
 }
