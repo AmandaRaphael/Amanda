@@ -1,6 +1,6 @@
 import style from "./projectCarousel.module.css";
 import reactImg from "../assets/React-icon.svg.png";
-import mernImg from "../assets/mernStack.jpg"
+import mernImg from "../assets/mernStack.jpg";
 const ProjectCarousel = () => {
   return (
     <div>
@@ -8,6 +8,8 @@ const ProjectCarousel = () => {
         <div className={style.carousel}>
           <a
             href="https://iphone-calculator-77suuvrxr-amandaraphael.vercel.app/"
+            rel="noreferrer"
+            target="_blank"
             className={style.carousel__item}
           >
             <div className={style.carousel__item_head}>
@@ -20,6 +22,8 @@ const ProjectCarousel = () => {
           </a>
           <a
             href="https://amandaraphael.github.io/AvengerQuiz/"
+            rel="noreferrer"
+            target="_blank"
             className={style.carousel__item}
           >
             <div className={style.carousel__item_head}>
@@ -32,6 +36,8 @@ const ProjectCarousel = () => {
           </a>
           <a
             href="https://blog-of-thrones2-qtbhnbkko-amandaraphael.vercel.app/"
+            rel="noreferrer"
+            target="_blank"
             className={style.carousel__item}
           >
             <div className={style.carousel__item_head}>
@@ -44,6 +50,8 @@ const ProjectCarousel = () => {
           </a>
           <a
             href="https://fun-code-react-ga8wgfi25-amandaraphael.vercel.app/"
+            rel="noreferrer"
+            target="_blank"
             className={style.carousel__item}
           >
             <div className={style.carousel__item_head}>
@@ -56,6 +64,8 @@ const ProjectCarousel = () => {
           </a>
           <a
             href="https://musing-lovelace-57c5de.netlify.app/"
+            rel="noreferrer"
+            target="_blank"
             className={style.carousel__item}
           >
             <div className={style.carousel__item_head}>
@@ -71,6 +81,8 @@ const ProjectCarousel = () => {
 
           <a
             href="https://thaikoodam-bridge-frontend.vercel.app/"
+            rel="noreferrer"
+            target="_blank"
             className={style.carousel__item}
           >
             <div className={style.carousel__item_head}>
@@ -84,6 +96,8 @@ const ProjectCarousel = () => {
           </a>
           <a
             href="https://solar-api-front-ge8ss0fwa-amandaraphael.vercel.app/satellites"
+            rel="noreferrer"
+            target="_blank"
             className={style.carousel__item}
           >
             <div className={style.carousel__item_head}>

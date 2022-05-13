@@ -4,15 +4,24 @@ import Menu from './Menu'
 
 const Header = () => {
     return (
-        <header>
-            <div class="container">
-            <div class="header-inner"> 
+      <header>
+        <div class="container">
+          <div class="header-inner">
             <H1 />
-            <Menu />
+            {/* <Menu /> */}
+            <div>
+              <a
+                class="meetingLink"
+                href="https://calendly.com/amanlin09/30min"
+                rel="noreferrer"
+                target="_blank"
+              >
+                Schedule a meeting
+              </a>
             </div>
-            </div>
-        </header>
-      
-    )
+          </div>
+        </div>
+      </header>
+    );
 }
 export default Header

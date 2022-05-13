@@ -455,3 +455,8 @@ footer{
         transform: translateX(-100%);
     }
 }
+
+.meetingLink{
+    color:white;
+    font-family: 'Montserrat', sans-serif;
+}
